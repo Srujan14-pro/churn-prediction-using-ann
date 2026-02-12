@@ -28,7 +28,7 @@ with open('one_hot_encoder.pkl', 'rb') as f:
 
 # Welcome Animation
 st.balloons()
-st.title("🎉 Customer Churn Prediction App 🎉")
+st.title(" Customer Churn Prediction App ")
 st.markdown("""
 <h4 style='color: #4CAF50;'>Welcome! Predict if a customer will churn and explore insights about your data.</h4>
 """, unsafe_allow_html=True)
