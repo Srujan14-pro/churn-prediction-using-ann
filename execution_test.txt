@@ -1,0 +1,3 @@
+Python is executing.
+Executable: C:\ProgramData\Anaconda3\python.exe
+CWD: D:\Compelete datascience\ann project
